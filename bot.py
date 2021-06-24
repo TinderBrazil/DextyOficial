@@ -3,7 +3,7 @@ import model
 from telebot.types import InlineKeyboardMarkup, InlineKeyboardButton, ReplyKeyboardMarkup, KeyboardButton, \
     ReplyKeyboardRemove
 
-token = "1275482560:AAG1g0MVgByYgGFALiGHIgO8s7I-XxKdgvY"
+token = "1275482560:AAHrGzAovJpKb1oK9WnTiJKSUBJ3Hp-fFbA"
 bot = telebot.TeleBot(token)
 
 post_dict = {}  # saves posts data while user's working on it
